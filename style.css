@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(238, 225, 225);
+}
+
+.field-icon {
+    float: right;
+    margin-left: -20px;
+    margin-top: -32px;
+    position: relative;
+    z-index: 2;
+  }
